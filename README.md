@@ -1,9 +1,27 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=100&size=20&pause=1000&color=BB45F7&center=true&width=850&lines=Hello+I'm+Renz+!!;4th+year+IT+student;Passionate+on+learning+new+Tech!" alt="Typing SVG" />
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=100&size=21&pause=1000&color=BB45F7&center=true&vCenter=true&width=900&lines=Hello+I'm+Renz+!!;4th+year+IT+student;Passionate+on+learning+new+Tech!" 
+      alt="Typing SVG"
+      style="max-width: 100%; height: auto;"
+    />
   </a>
 </p>
 
 <p align="center">
+  <b>4th Year IT Student | Full Stack Developer</b><br>
+  Building scalable systems that connect hardware, cloud, and mobile applications.
+</p>
+
+<p align="center">
     <img src="./assets/cyber.gif" width="800">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wtf-rnzx&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wtf-rnzx&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=wtf-rnzx&theme=tokyonight&hide_border=true" height="170"/>
 </p>
